@@ -1,0 +1,25 @@
+This mod adds special music boxes that play Spectral Aves' Calamity mod music remixes.
+
+
+Boxes are crafted by catching a Spectral Avian in a bug net and putting it in a terrarium, crafting bread (Hay and a water bottle at a furnace), then crafting Bread with the respective box at the Spectral Avian Terrarium
+
+
+**CALAMITY MUST BE INSTALLED FOR THIS MOD TO WORK**
+
+
+~Thank you to SpectralAves for letting me make this mod
+
+
+~Thank you to DM Dokuro for allowing us to use remixes of his music in this mod
+
+
+~Thank you to the Calamity Devs for allowing us to make this mod
+
+
+~Thank you to LordMetarex for allowing us to make 8-bit versions of their Music Box sprites
+
+
+~Thank you to GabeHasWon for help with code
+
+~Thank you to Hallam, God Of Rainbows for testing
+~Thank you to Glitched_Pixel for the Icon
