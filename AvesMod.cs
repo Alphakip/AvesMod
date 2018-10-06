@@ -54,6 +54,8 @@ namespace AvesMod
             Instance = this;
             if (!Main.dedServ)
             {
+                AddMusicBox(GetSoundSlot(SoundType.Music, "Sounds/Music/CI"), ItemType("CIBox"), TileType("CIBox"));
+                ErrorLogger.Log("oopsFoB");
                 AddMusicBox(GetSoundSlot(SoundType.Music, "Sounds/Music/FoB"), ItemType("FoBBox"), TileType("FoBBox"));
                 ErrorLogger.Log("oopsFoB");
                 AddMusicBox(GetSoundSlot(SoundType.Music, "Sounds/Music/GotFS"), ItemType("GotFSBox"), TileType("GotFSBox"));

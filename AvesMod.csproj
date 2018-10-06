@@ -39,6 +39,7 @@
     <Compile Include="Avian\Bread.cs" />
     <Compile Include="Avian\SpectralAvian.cs" />
     <Compile Include="Avian\SpectralAvianNPC.cs" />
+    <Compile Include="Boxes\CIBox.cs" />
     <Compile Include="Boxes\FoBBox.cs" />
     <Compile Include="Boxes\GotFSBox.cs" />
     <Compile Include="Boxes\HPBox.cs" />
@@ -48,6 +49,7 @@
     <Compile Include="Boxes\RUCBox.cs" />
     <Compile Include="Boxes\SotUBox.cs" />
     <Compile Include="Boxes\UIBox.cs" />
+    <Compile Include="BoxTiles\CIBox.cs" />
     <Compile Include="BoxTiles\FoBBox.cs" />
     <Compile Include="BoxTiles\GotFSBox.cs" />
     <Compile Include="BoxTiles\HPBox.cs" />
@@ -90,11 +92,13 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Aves.txt" />
+    <Content Include="AvesPallet.png" />
     <Content Include="Avian\AvesTerrarium.png" />
     <Content Include="Avian\AvesTerrariumTile.png" />
     <Content Include="Avian\Bread.png" />
     <Content Include="Avian\SpectralAvian.png" />
     <Content Include="Avian\SpectralAvianNPC.png" />
+    <Content Include="Boxes\CIBox.png" />
     <Content Include="Boxes\FoBBox.png" />
     <Content Include="Boxes\GotFSBox.png" />
     <Content Include="Boxes\HPBox.png" />
@@ -105,6 +109,7 @@
     <Content Include="Boxes\SotUBox.png" />
     <Content Include="Boxes\UIBox.png" />
     <Content Include="BoxTiles\BoxFrame.png" />
+    <Content Include="BoxTiles\CIBox.png" />
     <Content Include="BoxTiles\FoBBox.png" />
     <Content Include="BoxTiles\GotFSBox.png" />
     <Content Include="BoxTiles\HPBox.png" />
@@ -130,6 +135,7 @@
     <Content Include="Sounds\Sounds\QUAK.wav" />
   </ItemGroup>
   <ItemGroup>
+    <None Include=".gitattributes" />
     <None Include="obj\Debug\AvesMod.csproj.CoreCompileInputs.cache" />
     <None Include="obj\Debug\AvesMod.csprojAssemblyReference.cache" />
     <None Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />

@@ -7,19 +7,22 @@ Boxes are crafted by catching a Spectral Avian in a bug net and putting it in a 
 **CALAMITY MUST BE INSTALLED FOR THIS MOD TO WORK**
 
 
+
 ~Thank you to SpectralAves for letting me make this mod
 
 
 ~Thank you to DM Dokuro for allowing us to use remixes of his music in this mod
 
-
 ~Thank you to the Calamity Devs for allowing us to make this mod
-
 
 ~Thank you to LordMetarex for allowing us to make 8-bit versions of their Music Box sprites
 
 
 ~Thank you to GabeHasWon for help with code
 
+
 ~Thank you to Hallam, God Of Rainbows for testing
+
 ~Thank you to Glitched_Pixel for the Icon
+
+~Thank you to all of you who enjoy Spectral Aves' music

@@ -14,8 +14,8 @@ Ducks like it");
 
         public override void SetDefaults()
         {
-            item.width = 32;
-            item.height = 22;
+            item.width = 30;
+            item.height = 20;
             item.rare = 2;
             item.maxStack = 30;
 
